@@ -1,4 +1,8 @@
 RENCANA KONTEN SAYA
 -Javascript
+  * vue
+  * React
 -PHP
+  * Laravel
 -CSS
+  * Bootstrap
