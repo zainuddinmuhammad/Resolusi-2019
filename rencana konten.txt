@@ -1,8 +1,9 @@
 RENCANA KONTEN SAYA
 -Javascript
- * React
+  * vue
+  * React
 -PHP
-  * Code Igniter
+  * Laravel
 -CSS
   * Bootstrap
-- Android 
+
